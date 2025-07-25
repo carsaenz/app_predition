@@ -1,0 +1,553 @@
+jugador,equipo,Competición,goles,asistencias,partidos
+Mbappé K.,Real Madrid,LaLiga,31,3,34
+Lewandowski R.,Barcelona,LaLiga,27,2,34
+Budimir A.,Osasuna,LaLiga,21,4,38
+Sorloth A.,Atlético de Madrid,LaLiga,20,2,35
+Pérez A.,Villarreal,LaLiga,19,2,38
+Raphinha,Barcelona,LaLiga,18,9,36
+Álvarez J.,Atlético de Madrid,LaLiga,17,4,37
+Sancet O.,Athletic Club,LaLiga,15,1,29
+Kike G.,Alavés,LaLiga,13,0,30
+Puado J.,Espanyol,LaLiga,12,4,33
+Vinicius Junior,Real Madrid,LaLiga,11,8,34
+Barry T.,Villarreal,LaLiga,11,4,35
+Iglesias B.,Celta de Vigo,LaLiga,11,3,37
+Duro H.,Valencia,LaLiga,11,2,38
+Lukebakio D.,Sevilla,LaLiga,11,2,38
+Stuani C.,Girona,LaLiga,11,2,33
+Torres F.,Barcelona,LaLiga,10,6,37
+Aspas I.,Celta de Vigo,LaLiga,10,5,36
+Olmo D.,Barcelona,LaLiga,10,3,35
+Silva F.,Las Palmas,LaLiga,10,3,34
+Arambarri M.,Getafe,LaLiga,10,0,35
+Yamal L.,Barcelona,LaLiga,9,13,31
+Bellingham J.,Real Madrid,LaLiga,9,8,33
+Isco,Real Betis,LaLiga,9,8,32
+Oyarzabal M.,Real Sociedad,LaLiga,9,3,34
+Ramírez S.,Las Palmas,LaLiga,9,3,30
+Griezmann A.,Atlético de Madrid,LaLiga,8,7,36
+Raba D.,Leganés,LaLiga,8,6,33
+López D.,Valencia,LaLiga,8,5,37
+Lo Celso G.,Real Betis,LaLiga,8,3,33
+Baena A.,Villarreal,LaLiga,7,9,32
+Guruzeta G.,Athletic Club,LaLiga,7,2,30
+Larin C.,Mallorca,LaLiga,7,2,31
+Muriqi V.,Mallorca,LaLiga,7,2,30
+Williams I.,Athletic Club,LaLiga,6,8,35
+Berenguer A.,Athletic Club,LaLiga,6,7,34
+López F.,Barcelona,LaLiga,6,5,36
+Rodrygo,Real Madrid,LaLiga,6,5,36
+Valverde F.,Real Madrid,LaLiga,6,4,35
+de Frutos J.,Rayo Vallecano,LaLiga,6,3,31
+Moleiro A.,Las Palmas,LaLiga,6,1,30
+Fernández Jaén R.,Espanyol,LaLiga,6,0,32
+García R.,Osasuna,LaLiga,5,5,34
+Vicente C.,Alavés,LaLiga,5,5,33
+Williams N.,Athletic Club,LaLiga,5,5,31
+Cruz J.,Leganés,LaLiga,5,4,31
+Oroz A.,Osasuna,LaLiga,5,4,30
+Rioja L.,Valencia,LaLiga,5,3,35
+Antony,Real Betis,LaLiga,5,2,33
+González A.,Celta de Vigo,LaLiga,5,2,31
+Jordán J.,Alavés,LaLiga,5,2,30
+Cucho Hernández,Real Betis,LaLiga,5,1,29
+Mayoral B.,Getafe,LaLiga,5,1,27
+Sylla M.,Real Valladolid,LaLiga,5,1,28
+Kubo T.,Real Sociedad,LaLiga,5,0,33
+Sadiq U.,Valencia,LaLiga,5,0,31
+Pino Y.,Villarreal,LaLiga,4,7,30
+Rodríguez D.,Mallorca,LaLiga,4,7,31
+Mingueza O.,Celta de Vigo,LaLiga,4,6,29
+Uche C.,Getafe,LaLiga,4,6,27
+García A.,Rayo Vallecano,LaLiga,4,5,28
+Moro R.,Real Valladolid,LaLiga,4,5,26
+Pedri,Barcelona,LaLiga,4,5,36
+Swedberg W.,Celta de Vigo,LaLiga,4,5,30
+Durán P.,Celta de Vigo,LaLiga,4,4,28
+Palazón I.,Rayo Vallecano,LaLiga,4,4,29
+Sánchez J.,Sevilla,LaLiga,4,4,33
+Herrera Y.,Girona,LaLiga,4,3,27
+Álvarez H.,Celta de Vigo,LaLiga,4,3,26
+Cabrera L.,Espanyol,LaLiga,4,2,25
+Comesaña S.,Villarreal,LaLiga,4,2,27
+Díaz B.,Real Madrid,LaLiga,4,2,29
+Romero I.,Sevilla,LaLiga,4,2,28
+Ciss P.,Rayo Vallecano,LaLiga,4,1,25
+Correa A.,Atlético de Madrid,LaLiga,4,1,26
+Terrats R.,Getafe,LaLiga,4,1,23
+Danjuma A.,Girona,LaLiga,4,0,21
+García R.,Osasuna,LaLiga,4,0,22
+Gueye P.,Villarreal,LaLiga,4,0,23
+Martínez T.,Alavés,LaLiga,4,0,23
+Munir El Haddadi,Leganés,LaLiga,4,0,20
+Ruiz A.,Girona,LaLiga,4,0,19
+Vitor Roque,Real Betis,LaLiga,4,0,18
+Vivian D.,Athletic Club,LaLiga,4,0,22
+McBurnie O.,Las Palmas,LaLiga,3,6,25
+Pépé N.,Villarreal,LaLiga,3,6,29
+de Paul R.,Atlético de Madrid,LaLiga,3,5,27
+Güler A.,Real Madrid,LaLiga,3,4,26
+Lino S.,Atlético de Madrid,LaLiga,3,4,24
+Carreras J.,Espanyol,LaLiga,3,3,23
+Gallagher C.,Atlético de Madrid,LaLiga,3,3,23
+Gil B.,Girona,LaLiga,3,3,23
+Guerra J.,Valencia,LaLiga,3,3,22
+Parejo D.,Villarreal,LaLiga,3,3,22
+Camello S.,Rayo Vallecano,LaLiga,3,2,21
+Moreno G.,Villarreal,LaLiga,3,2,20
+Méndez B.,Real Sociedad,LaLiga,3,2,19
+Rodríguez J.,Celta de Vigo,LaLiga,3,2,20
+Salas K.,Sevilla,LaLiga,3,2,19
+Amallah S.,Real Valladolid,LaLiga,3,1,18
+Asprilla Y.,Girona,LaLiga,3,1,18
+Cardoso J.,Real Betis,LaLiga,3,1,17
+Cissé S.,Leganés,LaLiga,3,1,16
+Douvikas A.,Celta de Vigo,LaLiga,3,1,16
+Guridi J.,Alavés,LaLiga,3,1,15
+López U.,Rayo Vallecano,LaLiga,3,1,15
+Torre P.,Barcelona,LaLiga,3,1,15
+Alonso M.,Celta de Vigo,LaLiga,3,0,14
+Díaz P.,Rayo Vallecano,LaLiga,3,0,14
+García D.,Leganés,LaLiga,3,0,14
+Kumbulla M.,Espanyol,LaLiga,3,0,13
+Latasa J.,Real Valladolid,LaLiga,3,0,13
+Milla P.,Espanyol,LaLiga,3,0,13
+Muñoz A.,Las Palmas,LaLiga,3,0,13
+Nteka R.,Rayo Vallecano,LaLiga,3,0,12
+Oskarsson O.,Real Sociedad,LaLiga,3,0,12
+Paredes A.,Athletic Club,LaLiga,3,0,11
+Pérez C.,Getafe,LaLiga,3,0,11
+Torró L.,Osasuna,LaLiga,3,0,11
+Valjent M.,Mallorca,LaLiga,3,0,11
+
+
+
+
+Salah M.,Liverpool,Premier League,29,18,38
+Isak A.,Newcastle,Premier League,23,6,34
+Haaland E.,Manchester City,Premier League,22,3,31
+Mbeumo B.,Brentford,Premier League,20,7,38
+Wood Ch.,Nottingham Forest,Premier League,20,3,36
+Wissa Y.,Brentford,Premier League,19,4,34
+Watkins O.,Aston Villa,Premier League,16,8,31
+Palmer C.,Chelsea,Premier League,15,8,32
+Cunha M.,Wolves,Premier League,15,6,33
+Larsen J. S.,Wolves,Premier League,14,4,30
+Mateta J.,Crystal Palace,Premier League,14,2,31
+Bowen J.,West Ham,Premier League,13,8,32
+Diaz L.,Liverpool,Premier League,13,5,31
+Kluivert J.,Bournemouth,Premier League,12,6,28
+Jiménez R.,Fulham,Premier League,12,3,31
+Delap L.,Ipswich,Premier League,12,2,29
+Semenyo A.,Bournemouth,Premier League,11,5,30
+Johnson B.,Tottenham,Premier League,11,3,31
+Schade K.,Brentford,Premier League,11,2,28
+Joao Pedro,Brighton,Premier League,10,6,34
+Jackson N.,Chelsea,Premier League,10,5,34
+Gakpo C.,Liverpool,Premier League,10,4,36
+Mitoma K.,Brighton,Premier League,10,4,31
+Welbeck D.,Brighton,Premier League,10,4,32
+Evanilson,Bournemouth,Premier League,10,1,29
+Maddison J.,Tottenham,Premier League,9,7,32
+Iwobi A.,Fulham,Premier League,9,6,33
+Barnes H.,Newcastle,Premier League,9,4,30
+Vardy J.,Leicester,Premier League,9,4,31
+Havertz K.,Arsenal,Premier League,9,3,36
+Solanke D.,Tottenham,Premier League,9,3,35
+Soucek T.,West Ham,Premier League,9,1,34
+Ndiaye I.,Everton,Premier League,9,0,27
+Murphy J.,Newcastle,Premier League,8,12,28
+Fernandes B.,Manchester Utd,Premier League,8,10,37
+Rogers M.,Aston Villa,Premier League,8,10,36
+Eze E.,Crystal Palace,Premier League,8,8,35
+Trossard L.,Arsenal,Premier League,8,7,34
+Diallo A.,Manchester Utd,Premier League,8,6,31
+Sarr I.,Crystal Palace,Premier League,8,6,33
+Martinelli G.,Arsenal,Premier League,8,4,36
+Rodrigo Muniz,Fulham,Premier League,8,1,34
+Beto,Everton,Premier League,8,0,29
+Son Heung-Min,Tottenham,Premier League,7,9,33
+Gibbs-White M.,Nottingham Forest,Premier League,7,8,35
+Kulusevski D.,Tottenham,Premier League,7,4,30
+Ouattara Da.,Bournemouth,Premier League,7,4,28
+Madueke N.,Chelsea,Premier League,7,3,26
+Foden P.,Manchester City,Premier League,7,2,32
+Merino M.,Arsenal,Premier League,7,2,30
+Duran J.,Aston Villa,Premier League,7,0,27
+Marmoush O.,Manchester City,Premier League,7,0,28
+Gordon A.,Newcastle,Premier League,6,5,30
+Minteh Y.,Brighton,Premier League,6,4,27
+Diogo Jota,Liverpool,Premier League,6,3,25
+Garnacho A.,Manchester Utd,Premier League,6,3,32
+Rashford M.,Aston Villa,Premier League,6,3,32
+Smith Rowe E.,Fulham,Premier League,6,3,27
+Kovacic M.,Manchester City,Premier League,6,2,30
+Wilson H.,Fulham,Premier League,6,1,29
+Bruno Guimaraes,Newcastle,Premier League,6,0,31
+Mac Allister A.,Liverpool,Premier League,5,5,31
+Norgaard C.,Brentford,Premier League,5,4,32
+Kudus M.,West Ham,Premier League,5,3,33
+Rutter G.,Brighton,Premier League,5,3,31
+Buonanotte F.,Leicester,Premier League,5,2,27
+Hinshelwood J.,Brighton,Premier League,5,2,26
+Hudson-Odoi C.,Nottingham Forest,Premier League,5,2,31
+Milenkovic N.,Nottingham Forest,Premier League,5,2,29
+Núñez D.,Liverpool,Premier League,5,2,29
+Cucurella M.,Chelsea,Premier League,5,1,32
+Ayew J.,Leicester,Premier League,5,0,21
+Gvardiol J.,Manchester City,Premier League,5,0,28
+Ait Nouri R.,Wolves,Premier League,4,7,31
+De Bruyne K.,Manchester City,Premier League,4,7,30
+Rice D.,Arsenal,Premier League,4,7,32
+McNeil D.,Everton,Premier League,4,6,31
+Neto P.,Chelsea,Premier League,4,6,29
+Muñoz D.,Crystal Palace,Premier League,4,5,29
+Silva B.,Manchester City,Premier League,4,4,34
+Joelinton,Newcastle,Premier League,4,3,31
+Nwaneri E.,Arsenal,Premier League,4,2,20
+Partey T.,Arsenal,Premier League,4,2,27
+Sessegnon R.,Fulham,Premier League,4,2,25
+Tonali S.,Newcastle,Premier League,4,2,30
+Mavididi S.,Leicester,Premier League,4,1,28
+Onuachu P.,Southampton,Premier League,4,1,22
+Richarlison,Tottenham,Premier League,4,1,30
+Hojlund R.,Manchester Utd,Premier League,4,0,29
+Lucas Paqueta,West Ham,Premier League,4,0,28
+Schar F.,Newcastle,Premier League,4,0,33
+Szmodics S.,Ipswich,Premier League,4,0,28
+Odegaard M.,Arsenal,Premier League,3,8,29
+Doku J.,Manchester City,Premier League,3,7,25
+Tielemans Y.,Aston Villa,Premier League,3,7,28
+Alexander-Arnold T.,Liverpool,Premier League,3,6,29
+Tavernier M.,Bournemouth,Premier League,3,5,19
+Sancho J.,Chelsea,Premier League,3,4,16
+Jones C.,Liverpool,Premier League,3,3,27
+Doucouré A.,Everton,Premier League,3,2,28
+Füllkrug N.,West Ham,Premier League,3,2,25
+Guehi M.,Crystal Palace,Premier League,3,2,31
+Huijsen D.,Bournemouth,Premier League,3,2,24
+Hutchinson O.,Ipswich,Premier League,3,2,18
+Nkunku C.,Chelsea,Premier League,3,2,17
+Sarabia P.,Wolves,Premier League,3,2,20
+Sarr P. M.,Tottenham,Premier League,3,2,22
+Asensio M.,Aston Villa,Premier League,3,1,20
+Baleba C.,Brighton,Premier League,3,1,18
+Barkley R.,Aston Villa,Premier League,3,1,21
+Calvert-Lewin D.,Everton,Premier League,3,1,30
+Chalobah T.,Chelsea,Premier League,3,1,21
+Gabriel,Arsenal,Premier League,3,1,38
+Hirst G.,Ipswich,Premier League,3,1,19
+Joao Gomes,Wolves,Premier League,3,1,18
+Nketiah E.,Crystal Palace,Premier League,3,1,17
+Silva J.,Nottingham Forest,Premier League,3,1,19
+Zirkzee J.,Manchester Utd,Premier League,3,1,20
+van Dijk V.,Liverpool,Premier League,3,1,35
+Aribo J.,Southampton,Premier League,3,0,20
+Gabriel Jesus,Arsenal,Premier League,3,0,21
+Keane M.,Everton,Premier League,3,0,23
+Malen D.,Aston Villa,Premier League,3,0,23
+McAtee J.,Manchester City,Premier League,3,0,21
+Onana A.,Aston Villa,Premier League,3,0,21
+
+
+
+
+
+Retegui M.,Atalanta,Serie A,25,8,36
+Kean M.,Fiorentina,Serie A,19,3,36
+Lookman A.,Atalanta,Serie A,15,5,33
+Orsolini R.,Bolonia,Serie A,15,4,30
+Lukaku R.,Nápoles,Serie A,14,10,34
+Thuram M.,Inter,Serie A,14,4,33
+McTominay S.,Nápoles,Serie A,12,4,34
+Martínez L.,Inter,Serie A,12,3,31
+Dovbyk A.,Roma,Serie A,12,2,32
+Lucca L.,Udinese,Serie A,12,1,33
+Pulisic C.,AC Milan,Serie A,11,9,35
+Krstovic N.,Lecce,Serie A,11,5,37
+Reijnders T.,AC Milan,Serie A,10,4,36
+Vlahovic D.,Juventus,Serie A,10,4,33
+Castellanos T.,Lazio,Serie A,10,3,32
+Pedro P.,Lazio,Serie A,10,1,30
+Piccoli R.,Cagliari,Serie A,10,1,37
+Pinamonti A.,Genoa,Serie A,10,1,24
+Adams C.,Torino,Serie A,9,3,36
+Dia B.,Lazio,Serie A,9,3,28
+Leao R.,AC Milan,Serie A,8,8,34
+Zaccagni M.,Lazio,Serie A,8,6,32
+Castro S.,Bolonia,Serie A,8,4,28
+Ndoye D.,Bolonia,Serie A,8,4,31
+Thauvin F.,Udinese,Serie A,8,3,34
+Diao A.,Como,Serie A,8,1,34
+Kolo Muani R.,Juventus,Serie A,8,1,33
+Esposito Se.,Empoli,Serie A,8,0,24
+De Ketelaere C.,Atalanta,Serie A,7,6,29
+Cutrone P.,Como,Serie A,7,4,31
+Yildiz K.,Juventus,Serie A,7,4,33
+Saelemaekers A.,Roma,Serie A,7,3,23
+Dumfries D.,Inter,Serie A,7,2,29
+Paz N.,Como,Serie A,6,8,34
+Bonny A.,Parma,Serie A,6,4,37
+Strefezza G.,Como,Serie A,6,4,32
+Zambo Anguissa Andre-Frank,Nápoles,Serie A,6,4,34
+Dybala P.,Roma,Serie A,6,3,30
+Colombo L.,Empoli,Serie A,6,2,33
+Zortea N.,Cagliari,Serie A,6,2,31
+Gudmundsson A.,Fiorentina,Serie A,6,1,26
+Odgaard J.,Bolonia,Serie A,6,1,25
+Raspadori G.,Nápoles,Serie A,6,1,31
+Tengstedt C.,Verona,Serie A,6,1,28
+Maldini D.,Atalanta,Serie A,6,0,31
+Pohjanpalo J.,Venezia,Serie A,6,0,30
+Calhanoglu H.,Inter,Serie A,5,6,34
+Gosens R.,Fiorentina,Serie A,5,5,35
+Soule M.,Roma,Serie A,5,5,33
+Beltrán L.,Fiorentina,Serie A,5,4,31
+Vlasic N.,Torino,Serie A,5,4,31
+Kvaratskhelia K.,Nápoles,Serie A,5,3,32
+Giménez S.,AC Milan,Serie A,5,2,30
+Mota D.,Monza,Serie A,5,2,29
+Weah T.,Juventus,Serie A,5,2,28
+Djuric M.,Parma,Serie A,5,1,34
+Frattesi D.,Inter,Serie A,5,1,27
+Mosquera D.,Verona,Serie A,5,1,24
+Morata A.,AC Milan,Serie A,5,0,29
+Ondrejka J.,Parma,Serie A,5,0,30
+Dimarco F.,Inter,Serie A,4,7,35
+Adli Y.,Fiorentina,Serie A,4,6,28
+Thuram K.,Juventus,Serie A,4,5,31
+De Roon M.,Atalanta,Serie A,4,4,29
+Man D.,Parma,Serie A,4,4,29
+Shomurodov E.,Roma,Serie A,4,4,30
+Hernández T.,AC Milan,Serie A,4,3,31
+Mandragora R.,Fiorentina,Serie A,4,3,32
+Nicolussi Caviglia H.,Venezia,Serie A,4,3,29
+Arnautovic M.,Inter,Serie A,4,2,30
+Brescianini M.,Atalanta,Serie A,4,2,31
+Cristante B.,Roma,Serie A,4,2,29
+Isaksen G.,Lazio,Serie A,4,2,30
+Pierotti S.,Lecce,Serie A,4,2,31
+Zappacosta D.,Atalanta,Serie A,4,2,31
+Fazzini J.,Empoli,Serie A,4,1,31
+Lourenco E.,Atalanta,Serie A,4,1,30
+Sarr A.,Verona,Serie A,4,1,32
+Del Prato E.,Parma,Serie A,4,0,30
+Elmas E.,Torino,Serie A,4,0,28
+Marusic A.,Lazio,Serie A,4,0,32
+Sohm S.,Parma,Serie A,4,0,29
+Barella N.,Inter,Serie A,3,6,35
+Abraham T.,AC Milan,Serie A,3,4,28
+El Shaarawy S.,Roma,Serie A,3,4,31
+Pasalic M.,Atalanta,Serie A,3,4,32
+Politano M.,Nápoles,Serie A,3,4,31
+Conceicao F.,Juventus,Serie A,3,3,30
+Hernani,Parma,Serie A,3,3,29
+Koopmeiners T.,Juventus,Serie A,3,3,30
+Mbangula S.,Juventus,Serie A,3,3,29
+Miretti F.,Genoa,Serie A,3,3,28
+Oristanio G.,Venezia,Serie A,3,3,27
+Augusto C.,Inter,Serie A,3,2,29
+Bisseck Y.,Inter,Serie A,3,2,30
+Caprari G.,Monza,Serie A,3,2,29
+Chukwueze S.,AC Milan,Serie A,3,2,28
+Da Cunha L.,Como,Serie A,3,2,31
+Dallinga T.,Bolonia,Serie A,3,2,30
+Darmian M.,Inter,Serie A,3,2,31
+Di Lorenzo G.,Nápoles,Serie A,3,2,29
+Dominguez B.,Bolonia,Serie A,3,2,29
+Ekkelenkamp J.,Udinese,Serie A,3,2,28
+González N.,Juventus,Serie A,3,2,30
+Marin R.,Cagliari,Serie A,3,2,31
+Tete Morente,Lecce,Serie A,3,2,30
+Dele-Bashiru F.,Lazio,Serie A,3,1,29
+Dorgu P.,Lecce,Serie A,3,1,29
+Fabbian G.,Bolonia,Serie A,3,1,30
+Gineitis G.,Torino,Serie A,3,1,31
+Paredes L.,Roma,Serie A,3,1,29
+Pellegrino M.,Parma,Serie A,3,1,30
+Viola N.,Cagliari,Serie A,3,1,31
+Birindelli S.,Monza,Serie A,3,0,28
+Cancellieri M.,Parma,Serie A,3,0,29
+Cataldi D.,Fiorentina,Serie A,3,0,30
+De Winter K.,Genoa,Serie A,3,0,27
+Pellegri P.,Empoli,Serie A,3,0,29
+Vasquez J.,Genoa,Serie A,3,0,30
+Zapata D.,Torino,Serie A,3,0,29
+de Vrij S.,Inter,Serie A,3,0,30
+
+
+
+
+
+
+Dembélé O.,PSG,FR Ligue 1,21,6,29
+Greenwood M.,Marsella,FR Ligue 1,21,5,34
+Kalimuendo A.,Stade Rennais,FR Ligue 1,17,3,31
+David J.,Lille,FR Ligue 1,16,5,32
+Lacazette A.,Lyon,FR Ligue 1,15,2,32
+Barcola B.,PSG,FR Ligue 1,14,10,34
+Emegha E.,Estrasburgo,FR Ligue 1,14,3,27
+Gouiri A.,Marsella,FR Ligue 1,13,5,33
+Ajorque L.,Brest,FR Ligue 1,13,2,31
+Biereth M.,Mónaco,FR Ligue 1,13,2,16
+Guessand E.,Niza,FR Ligue 1,12,7,32
+Stassin L.,Saint-Étienne,FR Ligue 1,12,4,30
+Mikautadze G.,Lyon,FR Ligue 1,11,6,30
+Laborde G.,Niza,FR Ligue 1,11,5,32
+Nakamura K.,Reims,FR Ligue 1,11,2,32
+Perrin G.,Auxerre,FR Ligue 1,10,11,31
+Ramos G. M.,PSG,FR Ligue 1,10,3,30
+Santos A.,Estrasburgo,FR Ligue 1,10,3,28
+Traore H. J.,Auxerre,FR Ligue 1,10,2,30
+Toure A.,Le Havre,FR Ligue 1,10,1,29
+Davitashvili Z.,Saint-Étienne,FR Ligue 1,9,8,29
+Rabiot A.,Marsella,FR Ligue 1,9,4,31
+Abline M.,Nantes,FR Ligue 1,9,2,27
+Lepaul E.,Angers,FR Ligue 1,9,0,26
+Cherki R.,Lyon,FR Ligue 1,8,11,32
+Simon M.,Nantes,FR Ligue 1,8,10,33
+El Aynaoui N.,Lens,FR Ligue 1,8,1,27
+Luis Henrique,Marsella,FR Ligue 1,7,7,28
+Tolisso C.,Lyon,FR Ligue 1,7,5,31
+Aboukhlal Z.,Toulouse,FR Ligue 1,7,2,30
+Sima A.,Brest,FR Ligue 1,7,2,29
+Bakwa D.,Estrasburgo,FR Ligue 1,6,9,27
+Blas L.,Stade Rennais,FR Ligue 1,6,7,29
+Doue D.,PSG,FR Ligue 1,6,6,28
+Lee Kang-In,PSG,FR Ligue 1,6,6,29
+Del Castillo R.,Brest,FR Ligue 1,6,4,27
+Diop S.,Niza,FR Ligue 1,6,4,31
+Embolo B.,Mónaco,FR Ligue 1,6,4,23
+Nanasi S.,Estrasburgo,FR Ligue 1,6,4,22
+Zakaria D.,Mónaco,FR Ligue 1,6,4,25
+Ben Seghir E.,Mónaco,FR Ligue 1,6,3,26
+King J.,Toulouse,FR Ligue 1,6,3,28
+Minamino T.,Mónaco,FR Ligue 1,6,3,27
+Abdelli H.,Angers,FR Ligue 1,6,1,26
+Nzola M.,Lens,FR Ligue 1,6,1,27
+Jubal Junior,Auxerre,FR Ligue 1,6,0,28
+Akliouche M.,Mónaco,FR Ligue 1,5,10,24
+Sinayoko L.,Auxerre,FR Ligue 1,5,8,30
+Fofana M.,Lyon,FR Ligue 1,5,4,30
+Soumare I.,Le Havre,FR Ligue 1,5,4,27
+Camara M.,Brest,FR Ligue 1,5,3,29
+Cardona I.,Saint-Étienne,FR Ligue 1,5,3,26
+Gboho Y.,Toulouse,FR Ligue 1,5,3,28
+Haraldsson H.,Lille,FR Ligue 1,5,3,27
+Abdi A.,Niza,FR Ligue 1,5,2,29
+Ferreira V.,PSG,FR Ligue 1,5,1,25
+Magri F.,Toulouse,FR Ligue 1,5,1,25
+Sierro V.,Toulouse,FR Ligue 1,5,1,23
+Mostafa Mohamed,Nantes,FR Ligue 1,5,0,31
+Hakimi A.,PSG,FR Ligue 1,4,6,28
+Diarra H.,Estrasburgo,FR Ligue 1,4,5,27
+Ruiz F.,PSG,FR Ligue 1,4,5,26
+Ito J.,Reims,FR Ligue 1,4,4,30
+Maupay N.,Marsella,FR Ligue 1,4,4,27
+Casimir J.,Le Havre,FR Ligue 1,4,3,24
+Kvaratskhelia K.,PSG,FR Ligue 1,4,3,20
+Lemarechal F.,Estrasburgo,FR Ligue 1,4,3,19
+Babicka S.,Toulouse,FR Ligue 1,4,2,23
+Douglas Augusto,Nantes,FR Ligue 1,4,2,27
+Fernandez-Pardo M.,Lille,FR Ligue 1,4,2,23
+Frankowski P.,Lens,FR Ligue 1,4,2,27
+Munetsi M.,Reims,FR Ligue 1,4,2,29
+Ayew A.,Le Havre,FR Ligue 1,4,1,21
+Diakite B.,Lille,FR Ligue 1,4,1,26
+Diakite O.,Reims,FR Ligue 1,4,1,23
+Nordin A.,Montpellier,FR Ligue 1,4,1,27
+Onaiwu A.,Auxerre,FR Ligue 1,4,1,24
+Zhegrova E.,Lille,FR Ligue 1,4,1,27
+Balogun F.,Mónaco,FR Ligue 1,4,0,15
+Kehrer T.,Mónaco,FR Ligue 1,4,0,19
+Koyalipou G.,Lens,FR Ligue 1,4,0,21
+Clauss J.,Niza,FR Ligue 1,3,8,25
+Neves J.,PSG,FR Ligue 1,3,7,27
+Thomasson A.,Lens,FR Ligue 1,3,7,25
+Assignon L.,Stade Rennais,FR Ligue 1,3,4,21
+Cho M.,Niza,FR Ligue 1,3,4,26
+Bouanani B.,Niza,FR Ligue 1,3,3,20
+Rowe J.,Marsella,FR Ligue 1,3,3,17
+Sahraoui O.,Lille,FR Ligue 1,3,3,19
+Bakker M.,Lille,FR Ligue 1,3,2,22
+Diomande S.,Auxerre,FR Ligue 1,3,2,17
+Donnum A.,Toulouse,FR Ligue 1,3,2,14
+Doumbia K.,Brest,FR Ligue 1,3,2,18
+Faivre R.,Brest,FR Ligue 1,3,2,19
+Ilenikhena G.,Mónaco,FR Ligue 1,3,2,15
+Lala K.,Brest,FR Ligue 1,3,2,16
+Adams A.,Montpellier,FR Ligue 1,3,1,14
+Akpom Ch.,Lille,FR Ligue 1,3,1,13
+Cresswell C.,Toulouse,FR Ligue 1,3,1,12
+Hassan A.,Le Havre,FR Ligue 1,3,1,18
+Niane I.,Angers,FR Ligue 1,3,1,19
+Nuamah E.,Lyon,FR Ligue 1,3,1,17
+Rongier V.,Marsella,FR Ligue 1,3,1,23
+Rosario P.,Niza,FR Ligue 1,3,1,20
+Sissoko I.,Saint-Étienne,FR Ligue 1,3,1,18
+Tagliafico N.,Lyon,FR Ligue 1,3,1,29
+Tamari M.,Stade Rennais,FR Ligue 1,3,1,24
+Wahi E.,Marsella,FR Ligue 1,3,1,22
+Boakye A.,Saint-Étienne,FR Ligue 1,3,0,15
+Coulibaly T.,Montpellier,FR Ligue 1,3,0,20
+Dieng B.,Angers,FR Ligue 1,3,0,16
+Golovin A.,Mónaco,FR Ligue 1,3,0,18
+Gomez C. A.,Stade Rennais,FR Ligue 1,3,0,19
+Ndayishimiye Y.,Niza,FR Ligue 1,3,0,15
+Said W.,Lens,FR Ligue 1,3,0,16
+Sangante A.,Le Havre,FR Ligue 1,3,0,15
+Sanson M.,Niza,FR Ligue 1,3,0,16
+
+
+
+
+Guirassy S.,Borussia Dortmund,Champions League,92,2,38
+Lewandowski R.,Barcelona,Champions League,90,0,37
+Raphinha,Barcelona,Champions League,85,0,56
+Vinicius Junior,Real Madrid,Champions League,71,1,30
+Griezmann A.,Atlético de Madrid,Champions League,63,0,38
+David J.,Lille,Champions League,61,1,34
+Kane H.,Bayern Múnich,Champions League,61,1,36
+Wirtz F.,Bayer Leverkusen,Champions League,61,1,34
+Álvarez J.,Atlético de Madrid,Champions League,61,1,35
+Gyokeres V.,Sporting CP,Champions League,60,0,34
+Haaland E.,Manchester City,Champions League,60,0,31
+Giménez S.,Feyenoord,Champions League,51,1,30
+Pavlidis V.,Benfica,Champions League,51,1,33
+Martínez L.,Inter,Champions League,50,0,35
+De Ketelaere C.,Atalanta,Champions League,45,0,29
+Lookman A.,Atalanta,Champions League,42,0,33
+Saka B.,Arsenal,Champions League,42,0,36
+Dembélé O.,PSG,Champions League,41,0,29
+Havertz K.,Arsenal,Champions League,41,0,36
+Pulisic C.,AC Milan,Champions League,41,0,35
+Rodrygo,Real Madrid,Champions League,41,0,34
+Vlahovic D.,Juventus,Champions League,41,0,33
+Gittens J.,Borussia Dortmund,Champions League,40,0,32
+Olise M.,Bayern Múnich,Champions League,40,0,32
+Sesko B.,RB Leipzig,Champions League,40,0,31
+Salah M.,Liverpool,Champions League,34,0,38
+Leao R.,AC Milan,Champions League,32,0,34
+Mbappé K.,Real Madrid,Champions League,32,0,33
+Tillman M.,PSV,Champions League,32,0,32
+Adeyemi K.,Borussia Dortmund,Champions League,31,0,30
+Correa A.,Atlético de Madrid,Champions League,31,0,29
+Foden P.,Manchester City,Champions League,31,0,32
+Gakpo C.,Liverpool,Champions League,31,0,33
+Idah A.,Celtic,Champions League,31,0,26
+Milambo A.,Feyenoord,Champions League,31,0,29
+Rogers M.,Aston Villa,Champions League,31,0,31
+Akturkoglu K.,Benfica,Champions League,30,0,28
+Diaz L.,Liverpool,Champions League,30,0,31
+Duran J.,Aston Villa,Champions League,30,0,29
+Hadj Moussa A.,Feyenoord,Champions League,30,0,26
+Kokcu O.,Benfica,Champions League,30,0,30
+Kulenovic S.,Dinamo Zagreb,Champions League,30,0,27
+Maeda D.,Celtic,Champions League,30,0,26
+Radonjic N.,Estrella Roja,Champions League,30,0,29
+Reijnders T.,AC Milan,Champions League,30,0,26
+Retegui M.,Atalanta,Champions League,30,0,36
+Sima A.,Brest,Champions League,30,0,27
+Llorente M.,Atlético de Madrid,Champions League,24,0,22
+Millot E.,Stuttgart,Champions League,24,0,23
+Musiala J.,Bayern Múnich,Champions League,24,0,21

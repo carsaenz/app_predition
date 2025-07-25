@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8" />
+<title>Predicción de Partido y Goleadores</title>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+<div class="container mt-4">
+<h1>Predicciones</h1>
+<form method="POST" class="row g-3">
+  <div class="col-md-3">
+    <label for="liga" class="form-label">Competición</label>
+    <select id="liga" name="liga" class="form-select" required>
+      <option value="" disabled selected>Seleccione competición</option>
+      {% for liga in ligas %}
+      <option value="{{ liga }}" {% if liga == liga_seleccionada %}selected{% endif %}>{{ liga }}</option>
+      {% endfor %}
+    </select>
+  </div>
+  <div class="col-md-3">
+    <label for="equipo_local" class="form-label">Equipo Local</label>
+    <select id="equipo_local" name="equipo_local" class="form-select" required>
+      <option value="" disabled selected>Seleccione equipo local</option>
+    </select>
+  </div>
+  <div class="col-md-3">
+    <label for="equipo_visitante" class="form-label">Equipo Visitante</label>
+    <select id="equipo_visitante" name="equipo_visitante" class="form-select" required>
+      <option value="" disabled selected>Seleccione equipo visitante</option>
+    </select>
+  </div>
+  <div class="col-md-3">
+    <label for="jugador_local" class="form-label">Jugador Local</label>
+    <select id="jugador_local" name="jugador_local" class="form-select">
+      <option value="" disabled selected>Seleccione jugador local</option>
+    </select>
+  </div>
+  <div class="col-md-3">
+    <label for="jugador_visitante" class="form-label">Jugador Visitante</label>
+    <select id="jugador_visitante" name="jugador_visitante" class="form-select">
+      <option value="" disabled selected>Seleccione jugador visitante</option>
+    </select>
+  </div>
+  <div class="col-12">
+    <button type="submit" class="btn btn-primary">Calcular</button>
+  </div>
+</form>
+
+{% if resultados %}
+<div class="alert alert-info mt-4">
+  <p>{{ resultados.mensaje }}</p>
+  <p><strong>{{ equipo_local }}</strong> - Probabilidad de victoria: {{ resultados.prob_victoria_local }}%</p>
+  <p><strong>{{ equipo_visitante }}</strong> - Probabilidad de victoria: {{ resultados.prob_victoria_visitante }}%</p>
+  <p>Empate: {{ resultados.prob_empate }}%</p>
+  <p>Goles esperados <strong>{{ equipo_local }}</strong>: {{ resultados.goles_esperados_local }}</p>
+  <p>Goles esperados <strong>{{ equipo_visitante }}</strong>: {{ resultados.goles_esperados_visitante }}</p>
+  <hr>
+  <p>Marcador estimado 1er tiempo: {{ resultados.marcador_1t }}</p>
+  <p>Marcador estimado 2do tiempo: {{ resultados.marcador_2t }}</p>
+  <p>Marcador final estimado: {{ resultados.marcador_final }}</p>
+
+  {% if resultados.jugador_local %}
+    <hr>
+    <p>Probabilidad de gol que <strong>{{ resultados.jugador_local }}</strong>: {{ resultados.prob_jugador_local_gol }}%</p>
+    <p>Probabilidad de asistencia que <strong>{{ resultados.jugador_local }}</strong>: {{ resultados.prob_jugador_local_asistencia }}%</p>
+  {% endif %}
+  {% if resultados.jugador_visitante %}
+    <p>Probabilidad de gol que <strong>{{ resultados.jugador_visitante }}</strong>: {{ resultados.prob_jugador_visitante_gol }}%</p>
+    <p>Probabilidad de asistencia que <strong>{{ resultados.jugador_visitante }}</strong>: {{ resultados.prob_jugador_visitante_asistencia }}%</p>
+  {% endif %}
+</div>
+{% endif %}
+</div>
+
+<script>
+$(document).ready(function() {
+  $('#liga').change(function() {
+    var liga = $(this).val();
+    if (!liga) return;
+    $.getJSON('/equipos/' + encodeURIComponent(liga), function(data) {
+      var options = '<option value="" disabled selected>Seleccione equipo local</option>';
+      $.each(data, function(i, e) {
+        options += '<option value="' + e + '">' + e + '</option>';
+      });
+      $('#equipo_local').html(options);
+      $('#equipo_visitante').html('<option value="" disabled selected>Seleccione equipo visitante</option>');
+      $('#jugador_local').html('<option value="" disabled selected>Seleccione jugador local</option>');
+      $('#jugador_visitante').html('<option value="" disabled selected>Seleccione jugador visitante</option>');
+    });
+  });
+
+  $('#equipo_local').change(function() {
+    var liga = $('#liga').val();
+    var local = $(this).val();
+    if (!liga || !local) return;
+
+    $.getJSON('/equipos_visitantes/' + encodeURIComponent(liga) + '/' + encodeURIComponent(local), function(data) {
+      var options = '<option value="" disabled selected>Seleccione equipo visitante</option>';
+      $.each(data, function(i, e) {
+        options += '<option value="' + e + '">' + e + '</option>';
+      });
+      $('#equipo_visitante').html(options);
+      $('#jugador_visitante').html('<option value="" disabled selected>Seleccione jugador visitante</option>');
+    });
+
+    $.ajax({
+      url: '/jugadores',
+      type: 'POST',
+      contentType: 'application/json',
+      data: JSON.stringify({equipo: local, competicion: liga}),
+      success: function(data) {
+        var options = '<option value="" disabled selected>Seleccione jugador local</option>';
+        $.each(data, function(i, j) {
+          options += '<option value="'+ j +'">'+ j +'</option>';
+        });
+        $('#jugador_local').html(options);
+      }
+    });
+  });
+
+  $('#equipo_visitante').change(function() {
+    var liga = $('#liga').val();
+    var visitante = $(this).val();
+    if (!liga || !visitante) return;
+    $.ajax({
+      url: '/jugadores',
+      type: 'POST',
+      contentType: 'application/json',
+      data: JSON.stringify({equipo: visitante, competicion: liga}),
+      success: function(data) {
+        var options = '<option value="" disabled selected>Seleccione jugador visitante</option>';
+        $.each(data, function(i, j) {
+          options += '<option value="'+ j +'">'+ j +'</option>';
+        });
+        $('#jugador_visitante').html(options);
+      }
+    });
+  });
+});
+</script>
+</body>
+</html>
